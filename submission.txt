@@ -1,0 +1,17 @@
+# Menjalankan skrip
+python main.py
+
+# Menjalankan unit test pada folder tests
+python -m pytest tests
+
+# Menjalankan test coverage pada folder tests
+coverage run -m pytest tests
+
+# Lihat Laporan Covarage
+coverage report
+
+# Lihat Laporan Covarage dalam Bentuk HTML
+coverage html
+
+# Url Google Sheets:
+https://docs.google.com/spreadsheets/d/1d8mDuUK3d-u-78MeC9knc0sKdkbwb4Z7EgJMbextm3M/edit?gid=0#gid=0
